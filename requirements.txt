@@ -1,0 +1,8 @@
+pandas
+seaborn
+matplotlib
+nltk
+numpy
+tqdm
+transformers
+spicy
