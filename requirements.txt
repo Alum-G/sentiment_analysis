@@ -1,8 +1,7 @@
 pandas
-seaborn
-matplotlib
-nltk
 numpy
+matplotlib
+seaborn
+nltk
 tqdm
 transformers
-spicy
